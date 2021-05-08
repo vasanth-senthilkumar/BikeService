@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Royal Enfield",
+      "price": 100,
+      "image": "https://www.indiacarnews.com/wp-content/uploads/2020/07/Upcoming-New-Bike-Launches-1000x600.jpg",
+      "product_type": "bike"
+    },
+    {
+      "id": 2,
+      "name": "KTM RC200",
+      "price": 100,
+      "image": "https://bd.gaadicdn.com/processedimages/ktm/ktm-rc/640X309/ktm-rc5fd479ca13c0a.jpg",
+      "product_type": "bike"
+    },
+    {
+      "id": 3,
+      "name": "Royal Enfield",
+      "price": 200,
+      "image": "https://rideofy.com/wp-content/uploads/2020/06/home-slider_10.jpg",
+      "product_type": "bike"
+    },
+    {
+      "id": 4,
+      "name": "Ninja 300",
+      "price": 300,
+      "image": "https://stat.overdrive.in/wp-content/odgallery/2021/03/58643_2021_Kawasaki_Ninja_ZX-10R_1_468x263.jpg",
+      "product_type": "accessory"
+    },
+    {
+      "id": 5,
+      "name": "Benli",
+      "price": 400,
+      "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=http%3A%2F%2Fcdni.autocarindia.com%2FNews%2FNew-bike-and-scooter-launches-in-2021-TNT-302R.jpg&c=0",
+      "product_type": "accessory"
+    },
+    {
+      "id": 6,
+      "name": "BMW 600",
+      "price": 600,
+      "image": "https://media.zigcdn.com/media/model/2020/Feb/s-100-rr_360x240.jpg",
+      "product_type": "addon"
+    }
+  ]
+}
